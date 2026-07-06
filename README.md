@@ -1,4 +1,4 @@
-# 🌌 ⚔️ ARCHITECTURE: CONSTANT POINTER HANDLING IN C++ ⚔️ 🌌
+# 🌌 ⚔️ ARCHITECTURE: CONSTANT POINTER HANDLING IN C++ ⚔️🌌
 
 <p align="center">
   <a href="https://github.com/naumanrazzaq-dot">
